@@ -1,4 +1,4 @@
-To set up a development environment, please follow these steps:
+To set up a development environment and run the web app, please follow these steps:
 
 1. Clone the repo
 
