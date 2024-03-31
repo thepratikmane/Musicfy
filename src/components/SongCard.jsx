@@ -2,10 +2,10 @@ import { Link } from "react-router-dom";
 import { useDispatch } from "react-redux";
 
 import PlayPause from "./PlayPause";
-import { playPause, setActiveSong } from "../redux/features/playerSlice";
+import { playPause, setActiveSong } from "../redux/features/playerSlice"; // importing actions defined in redux slice 
 
 const SongCard = ({ song, isPlaying, activeSong, i, data }) => {
-  const dispatch = useDispatch();
+  const dispatch = useDispatch(); // dispatch is used to deploy redux actions
 
   const handlePauseClick = () => {
     dispatch(playPause(false));
