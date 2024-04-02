@@ -51,6 +51,11 @@ const TopPlay = () => {
   });
 
   const topPlays = data?.slice(0, 5);
+  // {console.log('hiiiiii' + topPlays.map(song => song.key))};
+  setTimeout(function() {
+    console.log("tOOOPPPPP PLAYS " + JSON.stringify(topPlays, null, 2));
+}, 5000); // 5000 milliseconds = 5 seconds
+
 
   // reduxSlice got reducers (here playerSlice), 
   //reducers have actions defined (here playPause), 

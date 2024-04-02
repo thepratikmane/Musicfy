@@ -1,0 +1,2313 @@
+[
+    {
+        "id": "1300620186",
+        "type": "artists",
+        "href": "/v1/catalog/us/artists/1300620186",
+        "attributes": {
+            "bornOrFormed": "1999",
+            "genreNames": [
+                "Pop"
+            ],
+            "editorialArtwork": {},
+            "origin": "Oxfordshire, England",
+            "name": "Artemas",
+            "artwork": {
+                "width": 2536,
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/d6/dd/e9/d6dde968-aa77-e0c3-7f32-1030d8ee1ae3/fcaba4cb-dc59-43b9-a707-e39020ccde53_file_cropped.png/440x440bb.jpg",
+                "height": 2536,
+                "textColor3": "252829",
+                "textColor2": "33140e",
+                "textColor4": "4d332f",
+                "textColor1": "010607",
+                "bgColor": "b6b0b0",
+                "hasP3": false
+            },
+            "url": "https://music.apple.com/us/artist/artemas/1300620186",
+            "artistBio": "Artemas Diamandis, who operates under the mononym Artemas, is an English songwriter and producer with an assured alt-pop sound that pairs relatable lyrics with earworm melodies, '90s guitar hooks, funk beats, and contemporary R&B flair. The Oxfordshire native issued his debut single, \"High 4 U,\" in 2020. More singles followed, including the streaming hits \"I'm Trynna Tell U That I Love U\" and \"Real Life,\" which both appeared on his debut long-player, I'm Sorry I'm Like This, in 2022. Artemas kept the momentum going in 2023, releasing a new song every month, with \"Cross My Heart\" and \"If U Think I'm Pretty\" garnering millions of streams."
+        },
+        "relationships": {
+            "albums": {
+                "href": "/v1/catalog/us/artists/1300620186/albums",
+                "next": "/v1/catalog/us/artists/1300620186/albums?offset=25",
+                "data": [
+                    {
+                        "id": "1718825035",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1718825035"
+                    },
+                    {
+                        "id": "1728069809",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1728069809"
+                    },
+                    {
+                        "id": "1726277588",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1726277588"
+                    },
+                    {
+                        "id": "1732994675",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1732994675"
+                    },
+                    {
+                        "id": "1706507615",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1706507615"
+                    },
+                    {
+                        "id": "1714789010",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1714789010"
+                    },
+                    {
+                        "id": "1692742043",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1692742043"
+                    },
+                    {
+                        "id": "1620449677",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1620449677"
+                    },
+                    {
+                        "id": "1696239380",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1696239380"
+                    },
+                    {
+                        "id": "1703976023",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1703976023"
+                    },
+                    {
+                        "id": "1656797790",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1656797790"
+                    },
+                    {
+                        "id": "1598141723",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1598141723"
+                    },
+                    {
+                        "id": "1689527579",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1689527579"
+                    },
+                    {
+                        "id": "1653016052",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1653016052"
+                    },
+                    {
+                        "id": "1714788493",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1714788493"
+                    },
+                    {
+                        "id": "1714788578",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1714788578"
+                    },
+                    {
+                        "id": "1492591003",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1492591003"
+                    },
+                    {
+                        "id": "1714788736",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1714788736"
+                    },
+                    {
+                        "id": "1613143332",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1613143332"
+                    },
+                    {
+                        "id": "1648942678",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1648942678"
+                    },
+                    {
+                        "id": "1727324196",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1727324196"
+                    },
+                    {
+                        "id": "1714788485",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1714788485"
+                    },
+                    {
+                        "id": "1622184062",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1622184062"
+                    },
+                    {
+                        "id": "1604416196",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1604416196"
+                    },
+                    {
+                        "id": "1736426868",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1736426868"
+                    }
+                ]
+            }
+        },
+        "views": {
+            "similar-artists": {
+                "href": "/v1/catalog/us/artists/1300620186/view/similar-artists",
+                "next": "/v1/catalog/us/artists/1300620186/view/similar-artists?offset=10",
+                "attributes": {
+                    "title": "Similar Artists"
+                },
+                "data": [
+                    {
+                        "id": "968628209",
+                        "type": "artists",
+                        "href": "/v1/catalog/us/artists/968628209",
+                        "attributes": {
+                            "bornOrFormed": "October 19, 1997",
+                            "genreNames": [
+                                "Christian"
+                            ],
+                            "editorialArtwork": {},
+                            "origin": "Pittsburgh, PA, United States",
+                            "name": "Montell Fish",
+                            "artwork": {
+                                "width": 3500,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/ae/db/db/aedbdbe5-eafd-a75d-b18f-ebae8e57ac64/41e8a603-cbd3-4db1-ad93-7d66d5af85e0_file_cropped.png/440x440bb.jpg",
+                                "height": 3500,
+                                "textColor3": "c8bfbf",
+                                "textColor2": "e9cdca",
+                                "textColor4": "c8b3b0",
+                                "textColor1": "e9dcdc",
+                                "bgColor": "454948",
+                                "hasP3": false
+                            },
+                            "url": "https://music.apple.com/us/artist/montell-fish/968628209",
+                            "artistBio": "The title of Montell Fish’s 2017 EP <I>Bedroom Gospel</I> sums up the worship leader’s faith-based fusion of alternative R&B and hip-hop that contains all the aching vulnerability of Frank Ocean and Steve Lacy."
+                        },
+                        "relationships": {
+                            "albums": {
+                                "href": "/v1/catalog/us/artists/968628209/albums",
+                                "next": "/v1/catalog/us/artists/968628209/albums?offset=25",
+                                "data": [
+                                    {
+                                        "id": "1648565949",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1648565949"
+                                    },
+                                    {
+                                        "id": "1633554187",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1633554187"
+                                    },
+                                    {
+                                        "id": "1623265132",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1623265132"
+                                    },
+                                    {
+                                        "id": "1216071269",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1216071269"
+                                    },
+                                    {
+                                        "id": "1424391291",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1424391291"
+                                    },
+                                    {
+                                        "id": "1151727416",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1151727416"
+                                    },
+                                    {
+                                        "id": "1623270001",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1623270001"
+                                    },
+                                    {
+                                        "id": "1445937929",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1445937929"
+                                    },
+                                    {
+                                        "id": "1630278641",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1630278641"
+                                    },
+                                    {
+                                        "id": "1623265255",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1623265255"
+                                    },
+                                    {
+                                        "id": "1622882865",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1622882865"
+                                    },
+                                    {
+                                        "id": "1622731861",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1622731861"
+                                    },
+                                    {
+                                        "id": "1622725397",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1622725397"
+                                    },
+                                    {
+                                        "id": "1622883841",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1622883841"
+                                    },
+                                    {
+                                        "id": "1623265099",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1623265099"
+                                    },
+                                    {
+                                        "id": "1677234515",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1677234515"
+                                    },
+                                    {
+                                        "id": "1623264827",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1623264827"
+                                    },
+                                    {
+                                        "id": "1622882870",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1622882870"
+                                    },
+                                    {
+                                        "id": "1623265076",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1623265076"
+                                    },
+                                    {
+                                        "id": "1623265249",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1623265249"
+                                    },
+                                    {
+                                        "id": "1622882898",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1622882898"
+                                    },
+                                    {
+                                        "id": "1506144731",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1506144731"
+                                    },
+                                    {
+                                        "id": "1622856596",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1622856596"
+                                    },
+                                    {
+                                        "id": "1402785722",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1402785722"
+                                    },
+                                    {
+                                        "id": "1623265173",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1623265173"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "id": "219350813",
+                        "type": "artists",
+                        "href": "/v1/catalog/us/artists/219350813",
+                        "attributes": {
+                            "bornOrFormed": "August 2011",
+                            "genreNames": [
+                                "Alternative"
+                            ],
+                            "editorialArtwork": {
+                                "storeFlowcase": {
+                                    "width": 4320,
+                                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Features22/v4/d8/96/b9/d896b949-068c-35a4-c53b-8c076e6f6e8e/mzm.vlxtcbkg.png/440x440bb.jpg",
+                                    "height": 1080,
+                                    "textColor3": "d6d6d6",
+                                    "textColor2": "f3f3f3",
+                                    "textColor4": "d3d3d3",
+                                    "textColor1": "f7f7f7",
+                                    "bgColor": "151515",
+                                    "hasP3": false
+                                }
+                            },
+                            "origin": "Newbury Park, CA, United States",
+                            "name": "The Neighbourhood",
+                            "artwork": {
+                                "width": 2669,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3b/84/f9/3b84f924-9e0e-fbd6-3460-c04fa43e6a84/pr_source.png/440x440bb.jpg",
+                                "height": 2669,
+                                "textColor3": "cdcdcd",
+                                "textColor2": "ececec",
+                                "textColor4": "c6c6c6",
+                                "textColor1": "f4f4f4",
+                                "bgColor": "313131",
+                                "hasP3": false
+                            },
+                            "editorialNotes": {
+                                "short": "First came “Sweater Weather,” now comes the storm."
+                            },
+                            "url": "https://music.apple.com/us/artist/the-neighbourhood/219350813",
+                            "artistBio": "“I hate the beach, but I stand in California with my toes in the sand.” When The Neighbourhood’s Jesse Rutherford sang that line on his band’s 2013 alt-pop earworm, “Sweater Weather,” he was doing more than just hinting at his preference for long-sleeved tops—he was positioning his group as the go-to soundtrack to your endless summer bummer. Released two years after The Neighbourhood formed in the L.A. suburb of Newbury Park, “Sweater Weather” was perfectly acclimated to a moment when songs like Gotye’s “Somebody That I Used to Know” and Foster the People’s “Pumped Up Kicks” were blurring the lines between moody alternative rock and ebullient Top 40 pop. While The Neighbourhood may have initially looked the part of the tattooed, leather-clad, five-piece hipster rock band, they became evermore fluent in the language of modern R&B and rap: They followed their platinum-selling debut, <I>I Love You.</I>, with the trap-inspired mixtape <I>#000000 & #FFFFFF</I>, featuring cameos from YG and French Montana, while the dramatic 2015 anthem “R.I.P. to My Youth” sees Rutherford channeling the self-flagellating antihero confessionals of The Weeknd. Their 2020 release, however, heralded not just a radical change in sound but in persona: Taking a page from the <i>Sgt. Pepper</I>/<I>Ziggy Stardust</I> playbook, <I>Chip Chrome & The Mono-Tones</I> outfits The Neighbourhood with a silver-painted alien alter ego in service of a bold, MGMT-esque fusion of glam, electro, and psychedelia. "
+                        },
+                        "relationships": {
+                            "albums": {
+                                "href": "/v1/catalog/us/artists/219350813/albums",
+                                "data": [
+                                    {
+                                        "id": "1030115907",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1030115907"
+                                    },
+                                    {
+                                        "id": "1440532502",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440532502"
+                                    },
+                                    {
+                                        "id": "635016635",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/635016635"
+                                    },
+                                    {
+                                        "id": "1525010103",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1525010103"
+                                    },
+                                    {
+                                        "id": "1316105951",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1316105951"
+                                    },
+                                    {
+                                        "id": "1541400529",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1541400529"
+                                    },
+                                    {
+                                        "id": "646040882",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/646040882"
+                                    },
+                                    {
+                                        "id": "766049325",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/766049325"
+                                    },
+                                    {
+                                        "id": "548656698",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/548656698"
+                                    },
+                                    {
+                                        "id": "1682583963",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1682583963"
+                                    },
+                                    {
+                                        "id": "1684342565",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1684342565"
+                                    },
+                                    {
+                                        "id": "1683253424",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1683253424"
+                                    },
+                                    {
+                                        "id": "1682583352",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1682583352"
+                                    },
+                                    {
+                                        "id": "584841510",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/584841510"
+                                    },
+                                    {
+                                        "id": "1587247004",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1587247004"
+                                    },
+                                    {
+                                        "id": "1543428922",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1543428922"
+                                    },
+                                    {
+                                        "id": "1578973421",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1578973421"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "id": "1578296103",
+                        "type": "artists",
+                        "href": "/v1/catalog/us/artists/1578296103",
+                        "attributes": {
+                            "bornOrFormed": "2005",
+                            "genreNames": [
+                                "Pop"
+                            ],
+                            "editorialArtwork": {},
+                            "origin": "Annapolis",
+                            "name": "Isabel LaRosa",
+                            "artwork": {
+                                "width": 2381,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/97/95/87/979587d7-31bf-055e-ce33-380ac9bf8947/78e6eaea-ab7b-4f04-a97a-2f5fb1f0cda3_ami-identity-595a304353b3230fa0827cebf900b5b8-2023-03-22T16-45-41.876Z_cropped.png/440x440bb.jpg",
+                                "height": 2381,
+                                "textColor3": "c6b798",
+                                "textColor2": "efd296",
+                                "textColor4": "c1aa79",
+                                "textColor1": "f6e3be",
+                                "bgColor": "080903",
+                                "hasP3": false
+                            },
+                            "url": "https://music.apple.com/us/artist/isabel-larosa/1578296103"
+                        },
+                        "relationships": {
+                            "albums": {
+                                "href": "/v1/catalog/us/artists/1578296103/albums",
+                                "data": [
+                                    {
+                                        "id": "1677017490",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1677017490"
+                                    },
+                                    {
+                                        "id": "1629518978",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1629518978"
+                                    },
+                                    {
+                                        "id": "1736608341",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1736608341"
+                                    },
+                                    {
+                                        "id": "1718573977",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1718573977"
+                                    },
+                                    {
+                                        "id": "1614667705",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1614667705"
+                                    },
+                                    {
+                                        "id": "1588518964",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1588518964"
+                                    },
+                                    {
+                                        "id": "1651454482",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1651454482"
+                                    },
+                                    {
+                                        "id": "1614667161",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1614667161"
+                                    },
+                                    {
+                                        "id": "1620597544",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1620597544"
+                                    },
+                                    {
+                                        "id": "1706170563",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1706170563"
+                                    },
+                                    {
+                                        "id": "1614667973",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1614667973"
+                                    },
+                                    {
+                                        "id": "1638995890",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1638995890"
+                                    },
+                                    {
+                                        "id": "1694580417",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1694580417"
+                                    },
+                                    {
+                                        "id": "1614675530",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1614675530"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "id": "1596682790",
+                        "type": "artists",
+                        "href": "/v1/catalog/us/artists/1596682790",
+                        "attributes": {
+                            "genreNames": [
+                                "Pop"
+                            ],
+                            "editorialArtwork": {},
+                            "name": "Shy Smith",
+                            "artwork": {
+                                "width": 5172,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/ab/c1/09/abc10907-dfdb-b758-e98a-4fd7fb20e633/2a49918f-dc73-4f3d-b5f4-8c97f38ac0e3_file_cropped.png/440x440bb.jpg",
+                                "height": 5172,
+                                "textColor3": "3d2f2d",
+                                "textColor2": "210c08",
+                                "textColor4": "423231",
+                                "textColor1": "1b0804",
+                                "bgColor": "c8cdd3",
+                                "hasP3": false
+                            },
+                            "url": "https://music.apple.com/us/artist/shy-smith/1596682790"
+                        },
+                        "relationships": {
+                            "albums": {
+                                "href": "/v1/catalog/us/artists/1596682790/albums",
+                                "data": [
+                                    {
+                                        "id": "1730977461",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1730977461"
+                                    },
+                                    {
+                                        "id": "1735809834",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1735809834"
+                                    },
+                                    {
+                                        "id": "1733981423",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1733981423"
+                                    },
+                                    {
+                                        "id": "1736416718",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1736416718"
+                                    },
+                                    {
+                                        "id": "1729390957",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1729390957"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "id": "464296584",
+                        "type": "artists",
+                        "href": "/v1/catalog/us/artists/464296584",
+                        "attributes": {
+                            "bornOrFormed": "June 21, 1985",
+                            "genreNames": [
+                                "Alternative"
+                            ],
+                            "editorialArtwork": {
+                                "storeFlowcase": {
+                                    "width": 4320,
+                                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Features3/v4/c3/42/29/c342293a-4af5-d095-2a8e-8f03ee1be41c/pr_source.png/440x440bb.jpg",
+                                    "height": 1080,
+                                    "textColor3": "cedcd3",
+                                    "textColor2": "fce9cc",
+                                    "textColor4": "dfcebc",
+                                    "textColor1": "e7fae9",
+                                    "bgColor": "6a637b",
+                                    "hasP3": false
+                                }
+                            },
+                            "origin": "United States of America",
+                            "name": "Lana Del Rey",
+                            "artwork": {
+                                "width": 1591,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/99/da/66/99da66c2-f540-8406-0646-c95c85d64d04/e3d84d5f-c5b1-4769-8610-c0702bf35962_ami-identity-d8b71c87e7bea71100eb76a0935c9fa0-2022-12-12T15-36-57.679Z_cropped.png/440x440bb.jpg",
+                                "height": 1591,
+                                "textColor3": "c7cbd6",
+                                "textColor2": "e0dfe6",
+                                "textColor4": "bfbfc8",
+                                "textColor1": "e9eef7",
+                                "bgColor": "3e4150",
+                                "hasP3": false
+                            },
+                            "url": "https://music.apple.com/us/artist/lana-del-rey/464296584",
+                            "artistBio": "Though she’s got the name and look of a ’60s-era Hollywood star, Lana Del Rey could only have emerged in the internet era. At a time when social media was giving people the power to curate their identities and present idealized versions of themselves online, the struggling singer-songwriter once known as Lizzy Grant (born in New York in 1985) reinvented herself as Lana Del Rey for her epochal 2011 single “Video Games.” The wistful orchestral ballad (and an accompanying Super 8-style video that heralded the ubiquity of soft-focus Instagram filters) introduced a femme fatale who delighted in breaking hearts and the internet alike, knowingly using coquettish sex-kitten cliches as a means to probe male behavior and, by extension, the American id itself. Not only did the song prove it was possible to cultivate genuine mystique in the age of oversharing, but it also carved out a space for languid, <i>Twin Peaks</i>-worthy art-pop amid a Top 40 normally reserved for jacked-up pop anthems. Since then, Lana has always kept listeners guessing: Informed equally by classic-rock mythology and modern hip-hop attitude, she can casually name-drop Lou Reed in a dream-pop serenade (2014’s “Brooklyn Baby”) as effortlessly she communes with R&B futurist The Weeknd (2017’s “Lust for Life”). More than a mere retro stylist, Lana embraces nostalgic all-American imagery only to corrupt it through subversive—sometimes profane—anti-love songs, while elevating pop-cultural detritus into high art: On 2019’s <i>Norman F*****g Rockwell!</i>—an epic masterwork that scales the heights of Elton John’s early-'70s classics—she makes room for a cover of Sublime’s ’90s stoner-funk anthem “Doin’ Time,” giving it a sultry trip-hop makeover that affirms the mystery of Lana Del Rey continues to be written."
+                        },
+                        "relationships": {
+                            "albums": {
+                                "href": "/v1/catalog/us/artists/464296584/albums",
+                                "next": "/v1/catalog/us/artists/464296584/albums?offset=25",
+                                "data": [
+                                    {
+                                        "id": "1474669063",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1474669063"
+                                    },
+                                    {
+                                        "id": "1440811595",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440811595"
+                                    },
+                                    {
+                                        "id": "1655349115",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1655349115"
+                                    },
+                                    {
+                                        "id": "1440818509",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440818509"
+                                    },
+                                    {
+                                        "id": "1545567745",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1545567745"
+                                    },
+                                    {
+                                        "id": "1440899893",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440899893"
+                                    },
+                                    {
+                                        "id": "1584675130",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1584675130"
+                                    },
+                                    {
+                                        "id": "1440827260",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440827260"
+                                    },
+                                    {
+                                        "id": "1440810064",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440810064"
+                                    },
+                                    {
+                                        "id": "1440853031",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440853031"
+                                    },
+                                    {
+                                        "id": "1442452465",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1442452465"
+                                    },
+                                    {
+                                        "id": "1440854064",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440854064"
+                                    },
+                                    {
+                                        "id": "1440831284",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440831284"
+                                    },
+                                    {
+                                        "id": "1443132917",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1443132917"
+                                    },
+                                    {
+                                        "id": "1444874327",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1444874327"
+                                    },
+                                    {
+                                        "id": "1440859949",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440859949"
+                                    },
+                                    {
+                                        "id": "1440864840",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440864840"
+                                    },
+                                    {
+                                        "id": "1445298602",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1445298602"
+                                    },
+                                    {
+                                        "id": "1442879908",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1442879908"
+                                    },
+                                    {
+                                        "id": "1445143753",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1445143753"
+                                    },
+                                    {
+                                        "id": "1445029238",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1445029238"
+                                    },
+                                    {
+                                        "id": "1691139667",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1691139667"
+                                    },
+                                    {
+                                        "id": "1568128574",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1568128574"
+                                    },
+                                    {
+                                        "id": "1445306226",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1445306226"
+                                    },
+                                    {
+                                        "id": "1445308097",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1445308097"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "id": "1495726749",
+                        "type": "artists",
+                        "href": "/v1/catalog/us/artists/1495726749",
+                        "attributes": {
+                            "genreNames": [
+                                "Hip-Hop/Rap"
+                            ],
+                            "editorialArtwork": {},
+                            "name": "Kae",
+                            "artwork": {
+                                "width": 2083,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/fb/b8/bb/fbb8bb5a-2314-be8a-6788-f80e62748766/950d3c7b-af16-4a42-911a-5eba6a82f1af_ami-identity-37e5590214c97200b8ec57e9fdd9b995-2023-09-08T16-06-32.491Z_cropped.png/440x440bb.jpg",
+                                "height": 2083,
+                                "textColor3": "b4b4b4",
+                                "textColor2": "c8c8c8",
+                                "textColor4": "a4a4a4",
+                                "textColor1": "dbdbdb",
+                                "bgColor": "181818",
+                                "hasP3": false
+                            },
+                            "url": "https://music.apple.com/us/artist/kae/1495726749"
+                        },
+                        "relationships": {
+                            "albums": {
+                                "href": "/v1/catalog/us/artists/1495726749/albums",
+                                "data": [
+                                    {
+                                        "id": "1712376133",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1712376133"
+                                    },
+                                    {
+                                        "id": "1728961207",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1728961207"
+                                    },
+                                    {
+                                        "id": "1728294334",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1728294334"
+                                    },
+                                    {
+                                        "id": "1708505456",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1708505456"
+                                    },
+                                    {
+                                        "id": "1734504957",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1734504957"
+                                    },
+                                    {
+                                        "id": "1728960851",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1728960851"
+                                    },
+                                    {
+                                        "id": "1730106146",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1730106146"
+                                    },
+                                    {
+                                        "id": "1705078843",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1705078843"
+                                    },
+                                    {
+                                        "id": "1710627869",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1710627869"
+                                    },
+                                    {
+                                        "id": "1705280027",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1705280027"
+                                    },
+                                    {
+                                        "id": "1710625833",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1710625833"
+                                    },
+                                    {
+                                        "id": "1705279839",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1705279839"
+                                    },
+                                    {
+                                        "id": "1710628186",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1710628186"
+                                    },
+                                    {
+                                        "id": "1702334283",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1702334283"
+                                    },
+                                    {
+                                        "id": "1728960844",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1728960844"
+                                    },
+                                    {
+                                        "id": "1705280084",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1705280084"
+                                    },
+                                    {
+                                        "id": "1728960901",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1728960901"
+                                    },
+                                    {
+                                        "id": "1728961217",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1728961217"
+                                    },
+                                    {
+                                        "id": "1703917997",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1703917997"
+                                    },
+                                    {
+                                        "id": "1728961311",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1728961311"
+                                    },
+                                    {
+                                        "id": "1710627988",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1710627988"
+                                    },
+                                    {
+                                        "id": "1728961173",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1728961173"
+                                    },
+                                    {
+                                        "id": "1728960955",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1728960955"
+                                    },
+                                    {
+                                        "id": "1728961218",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1728961218"
+                                    },
+                                    {
+                                        "id": "1728960848",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1728960848"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "id": "879496517",
+                        "type": "artists",
+                        "href": "/v1/catalog/us/artists/879496517",
+                        "attributes": {
+                            "bornOrFormed": "2013",
+                            "genreNames": [
+                                "Alternative"
+                            ],
+                            "editorialArtwork": {},
+                            "origin": "Cairns, Australia",
+                            "name": "Chase Atlantic",
+                            "artwork": {
+                                "width": 3644,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/a3/83/38/a38338bb-8d45-6ed3-6dfe-9395a566e50c/eec985ce-83e3-4dee-b852-4a8d55775146_ami-identity-f103f4e005e166c05a412d612047052d-2023-09-27T19-28-09.921Z_cropped.png/440x440bb.jpg",
+                                "height": 3644,
+                                "textColor3": "c0c6c9",
+                                "textColor2": "d9eef5",
+                                "textColor4": "b0c3c9",
+                                "textColor1": "edf2f5",
+                                "bgColor": "0f191a",
+                                "hasP3": false
+                            },
+                            "url": "https://music.apple.com/us/artist/chase-atlantic/879496517",
+                            "artistBio": "Chase Atlantic is an Australian alternative pop group formed in 2014.\n\n∙ Their single “Friends,” from the self-released 2015 EP <i>Nostalgia</i>, was a viral hit, earning the group a major label deal and international attention.\n∙ In 2017, they collaborated with rappers ILOVEMAKONNEN and K Camp on “No Friends,” a single off the EP <i>Part Three</i>.\n∙ Led by the tracks “Into It” and “Swim,” the trio’s self-titled first album and major label debut, <i>Chase Atlantic</i>, arrived in 2017.\n∙ Chase Atlantic received the AAA Rising Star Award from the American Australian Association, a nonprofit organization promoting cultural exchange, in 2018.\n∙ They earned their first Top 10 with the 2019 sophomore album <i>Phases</i>, which reached No. 6 on the <i>Billboard</i> Heatseekers Albums chart."
+                        },
+                        "relationships": {
+                            "albums": {
+                                "href": "/v1/catalog/us/artists/879496517/albums",
+                                "next": "/v1/catalog/us/artists/879496517/albums?offset=25",
+                                "data": [
+                                    {
+                                        "id": "1290755604",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1290755604"
+                                    },
+                                    {
+                                        "id": "1197080053",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1197080053"
+                                    },
+                                    {
+                                        "id": "1550876511",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1550876511"
+                                    },
+                                    {
+                                        "id": "1621324889",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1621324889"
+                                    },
+                                    {
+                                        "id": "1216956691",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1216956691"
+                                    },
+                                    {
+                                        "id": "1708864267",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1708864267"
+                                    },
+                                    {
+                                        "id": "1288106329",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1288106329"
+                                    },
+                                    {
+                                        "id": "1460407836",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1460407836"
+                                    },
+                                    {
+                                        "id": "1708868570",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1708868570"
+                                    },
+                                    {
+                                        "id": "1708867356",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1708867356"
+                                    },
+                                    {
+                                        "id": "1448869074",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1448869074"
+                                    },
+                                    {
+                                        "id": "1336183071",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1336183071"
+                                    },
+                                    {
+                                        "id": "1571847403",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1571847403"
+                                    },
+                                    {
+                                        "id": "1713854085",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1713854085"
+                                    },
+                                    {
+                                        "id": "1725195425",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1725195425"
+                                    },
+                                    {
+                                        "id": "1713639156",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1713639156"
+                                    },
+                                    {
+                                        "id": "1728149617",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1728149617"
+                                    },
+                                    {
+                                        "id": "1588165048",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1588165048"
+                                    },
+                                    {
+                                        "id": "1709528925",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1709528925"
+                                    },
+                                    {
+                                        "id": "1364912613",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1364912613"
+                                    },
+                                    {
+                                        "id": "1533180476",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1533180476"
+                                    },
+                                    {
+                                        "id": "1713639127",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1713639127"
+                                    },
+                                    {
+                                        "id": "1525808453",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1525808453"
+                                    },
+                                    {
+                                        "id": "1582232689",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1582232689"
+                                    },
+                                    {
+                                        "id": "1489378753",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1489378753"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "id": "479756766",
+                        "type": "artists",
+                        "href": "/v1/catalog/us/artists/479756766",
+                        "attributes": {
+                            "bornOrFormed": "February 16, 1990",
+                            "genreNames": [
+                                "R&B/Soul"
+                            ],
+                            "editorialArtwork": {
+                                "originalFlowcaseBrick": {
+                                    "width": 3200,
+                                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Features1/v4/1e/24/3b/1e243b7f-8d8e-e195-cf44-1b13f6b75207/pr_source.png/440x440bb.jpg",
+                                    "height": 600,
+                                    "textColor3": "1e1e1e",
+                                    "textColor2": "1f1b1c",
+                                    "textColor4": "363434",
+                                    "textColor1": "000000",
+                                    "bgColor": "969596",
+                                    "hasP3": false
+                                },
+                                "centeredFullscreenBackground": {
+                                    "width": 4320,
+                                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/d1/e9/85/d1e985de-7090-4846-0bf3-402cd95424ad/c614aaa7-045b-4773-8f6d-47eac020ec56.png/440x440bb.jpg",
+                                    "height": 2160,
+                                    "textColor3": "1e2016",
+                                    "textColor2": "161610",
+                                    "textColor4": "282a1e",
+                                    "textColor1": "0b0c08",
+                                    "bgColor": "889263",
+                                    "hasP3": false
+                                },
+                                "storeFlowcase": {
+                                    "width": 4320,
+                                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/d2/19/5c/d2195cef-8686-27f0-de59-d36d620a6236/U0YtTVMtV1ctVGhlX1dlZWtlbmQtRGF3bl9GTS1DYXRhbG9nLnBuZw.png/440x440bb.jpg",
+                                    "height": 1080,
+                                    "textColor3": "122933",
+                                    "textColor2": "122228",
+                                    "textColor4": "1b3d4a",
+                                    "textColor1": "070e11",
+                                    "bgColor": "47c7f7",
+                                    "hasP3": false
+                                }
+                            },
+                            "origin": "Toronto, Ontario, Canada",
+                            "name": "The Weeknd",
+                            "editorialNotes": {
+                                "short": "A subversive vocalist who emerged from the underground to define millennial R&B."
+                            },
+                            "artwork": {
+                                "width": 1437,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/2d/85/9c/2d859cc8-7230-8ba7-b741-a7c7c029bed6/8be5558a-5c13-48da-a649-a873856f3fb0_ami-identity-777ad796f94973f081f3e54e4b81fcb1-2023-07-22T13-59-27.161Z_cropped.png/440x440bb.jpg",
+                                "height": 1437,
+                                "textColor3": "d2d8da",
+                                "textColor2": "e5e5e5",
+                                "textColor4": "bfc3c8",
+                                "textColor1": "fdfffc",
+                                "bgColor": "2a3e57",
+                                "hasP3": false
+                            },
+                            "url": "https://music.apple.com/us/artist/the-weeknd/479756766",
+                            "artistBio": "Nobody makes feeling bad sound as good as The Weeknd. Even the singer’s sunniest tracks (“Can’t Feel My Face,” “Starboy”) feel anchored by darkness—the sense that pleasure is pain and beauty decays and you can’t have the night without the morning after. The brainchild of Toronto singer Abel Tesfaye, the project took off in 2011 with a string of mixtapes (later collected as 2012’s <i>Trilogy</i>) that forged cavernous, falsetto-driven R&B with narratives drenched in drugs, sex, and other regrettable decisions—a sound both sensuous and detached, featherlight and dead heavy. One of the earliest musicians to find his footing on the internet, Tesfaye originally offered his music through YouTube and free downloads, a move that felt radical then but is common now. Ethiopian by heritage (his parents immigrated to Canada in the late ’80s, just before he was born), Tesfaye—out from behind the mask of making art online—has since come to represent the changing face of Toronto, rooting himself not just in an international musical community but in a specific diasporic experience. Tesfaye’s music has become a symbol of hedonism pushed to bleak excess, with a series of albums—including 2015’s Grammy-winning <i>Beauty Behind the Madness</i>, 2016’s multiplatinum <i>Starboy</i>, and 2020’s dense and atmospheric <i>After Hours</i>—whose narrators can’t seem to say no even if they hate themselves for it later. And though his music has gotten a little brighter over time, the prevailing mood remains heavy, even unsettling—the ride you want more of even when you’ve had too much. Speaking to Apple Music about the persona behind his songs, Tesfaye said, “I’m a chill person. That guy is who I am, but it is who I am to myself and in my writing. Sometimes you take him and then you create more, and then it becomes this beast. You add more to him, and then it’s uncontrollable—its own character. It’s like Scarface, the villain: It’s horrible, but you can’t stop looking at it.” Though he didn’t release a new album in 2021, he was a constant part of the cultural conversation, releasing a slew of singles, performing at the Super Bowl and on <i>Saturday Night Live</i> (think: “Ladies and gentlemen, The Weeknd”), and winning the Apple Music Award for Artist of the Year."
+                        },
+                        "relationships": {
+                            "albums": {
+                                "href": "/v1/catalog/us/artists/479756766/albums",
+                                "next": "/v1/catalog/us/artists/479756766/albums?offset=25",
+                                "data": [
+                                    {
+                                        "id": "1363309866",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1363309866"
+                                    },
+                                    {
+                                        "id": "1499378108",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1499378108"
+                                    },
+                                    {
+                                        "id": "1603171516",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1603171516"
+                                    },
+                                    {
+                                        "id": "1440871397",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440871397"
+                                    },
+                                    {
+                                        "id": "1440826239",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440826239"
+                                    },
+                                    {
+                                        "id": "1505683705",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1505683705"
+                                    },
+                                    {
+                                        "id": "1499385848",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1499385848"
+                                    },
+                                    {
+                                        "id": "1363308558",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1363308558"
+                                    },
+                                    {
+                                        "id": "1422667786",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1422667786"
+                                    },
+                                    {
+                                        "id": "1445048818",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1445048818"
+                                    },
+                                    {
+                                        "id": "1558941834",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1558941834"
+                                    },
+                                    {
+                                        "id": "1445056812",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1445056812"
+                                    },
+                                    {
+                                        "id": "1440849138",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440849138"
+                                    },
+                                    {
+                                        "id": "1714908584",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1714908584"
+                                    },
+                                    {
+                                        "id": "1603164027",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1603164027"
+                                    },
+                                    {
+                                        "id": "1693891133",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1693891133"
+                                    },
+                                    {
+                                        "id": "1674298155",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1674298155"
+                                    },
+                                    {
+                                        "id": "1579255902",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1579255902"
+                                    },
+                                    {
+                                        "id": "1440870373",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440870373"
+                                    },
+                                    {
+                                        "id": "1505682596",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1505682596"
+                                    },
+                                    {
+                                        "id": "1618519111",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1618519111"
+                                    },
+                                    {
+                                        "id": "1550875218",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1550875218"
+                                    },
+                                    {
+                                        "id": "1598758840",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1598758840"
+                                    },
+                                    {
+                                        "id": "1659775403",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1659775403"
+                                    },
+                                    {
+                                        "id": "1440858094",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440858094"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "id": "1712797122",
+                        "type": "artists",
+                        "href": "/v1/catalog/us/artists/1712797122",
+                        "attributes": {
+                            "genreNames": [
+                                "Alternative"
+                            ],
+                            "editorialArtwork": {},
+                            "name": "Gio Mkl",
+                            "artwork": {
+                                "width": 3000,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/42/57/77425714-c54e-4cd3-5113-0790500d99f2/215017.jpg/440x440ac.jpg",
+                                "height": 3000,
+                                "textColor3": "3e4442",
+                                "textColor2": "151a16",
+                                "textColor4": "3f4440",
+                                "textColor1": "121a17",
+                                "bgColor": "ebebeb",
+                                "hasP3": false
+                            },
+                            "url": "https://music.apple.com/us/artist/gio-mkl/1712797122"
+                        },
+                        "relationships": {
+                            "albums": {
+                                "href": "/v1/catalog/us/artists/1712797122/albums",
+                                "data": [
+                                    {
+                                        "id": "1735098850",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1735098850"
+                                    },
+                                    {
+                                        "id": "1725911688",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1725911688"
+                                    },
+                                    {
+                                        "id": "1730404035",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1730404035"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "id": "605800394",
+                        "type": "artists",
+                        "href": "/v1/catalog/us/artists/605800394",
+                        "attributes": {
+                            "bornOrFormed": "November 8, 1989",
+                            "genreNames": [
+                                "R&B/Soul"
+                            ],
+                            "editorialArtwork": {
+                                "bannerUber": {
+                                    "width": 4320,
+                                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Features118/v4/b4/08/de/b408def4-fd1e-9639-67b1-f4de1a9663ca/temp..ilsomyon.png/440x440sr.jpg",
+                                    "height": 1080,
+                                    "textColor3": "3c3d38",
+                                    "textColor2": "1b1d1b",
+                                    "textColor4": "43423b",
+                                    "textColor1": "121816",
+                                    "bgColor": "e6d4bf",
+                                    "hasP3": false
+                                },
+                                "centeredFullscreenBackground": {
+                                    "width": 4320,
+                                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/98/f2/5a/98f25aaf-e658-46bf-54b8-bd799cab31e8/94bcf11c-cba7-456a-b5a7-43e7f8280e9a.png/440x440bb.jpg",
+                                    "height": 2160,
+                                    "textColor3": "abb1c7",
+                                    "textColor2": "dfa490",
+                                    "textColor4": "b28580",
+                                    "textColor1": "d6dbe8",
+                                    "bgColor": "000840",
+                                    "hasP3": false
+                                }
+                            },
+                            "origin": "St. Louis, Missouri",
+                            "name": "SZA",
+                            "artwork": {
+                                "width": 3840,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/78/a9/b3/78a9b3fe-3694-c068-09c5-673fe0e46f38/mza_5912257883088514867.png/440x440bb.jpg",
+                                "height": 3840,
+                                "textColor3": "b89185",
+                                "textColor2": "da968c",
+                                "textColor4": "ae7a7f",
+                                "textColor1": "e6b394",
+                                "bgColor": "00094b",
+                                "hasP3": false
+                            },
+                            "url": "https://music.apple.com/us/artist/sza/605800394",
+                            "artistBio": "Solána Rowe had a weird time growing up. Jersey suburbs, orthodox Muslim household, parents working their way through corporate America, wanted to fit in, couldn’t. She got bullied for wearing a hijab after 9/11 and became the kind of teenager who, on at least one occasion, drew the cops into a chase while joyriding in the family car. “[My parents] were only strict because they were reasonable,” she told Apple Music in 2017. “Like, they’re black, they come from the South and Midwest, they don’t come from anything…they’re not tryna take a gang of risks.” That Rowe had her own ideas about how to live didn’t help. “I rebelled really hard, and I learned everything the hard way,” she said. “I’m very hardheaded, very curious.” <br>\nIt’s a balance—rebellious but insecure, expressive but self-conscious, dreamy but alert—that has made Rowe resonant, but also an anomaly, the kind of artist who doesn’t ignore her quirks or contradictions, but brings them to the table in all their messy human glory. After self-releasing a couple of EPs in her early twenties (she took her name from the Nation of Islam’s Supreme Alphabet—Savior Zig-Zag Allah), she became the first female artist signed to Top Dawg Entertainment, joining future collaborators Kendrick Lamar and Jay Rock. Released in 2017, her debut album, <I>Ctrl</I>, put her at the vanguard of contemporary R&B, mixing the expressivity of classic soul with a hazy, synth-heavy atmosphere and a playful sense of lyricism that brought Rowe’s inner monologue out. “Even with the heels and tighter clothes and other things, I’m still just me,” she said. “I still have a lot of anxiety about the world, and my thoughts, and what people think about my thoughts.” By the time she released <I>Ctrl</I>'s equally wide-ranging follow-up, 2022's <i>SOS</i>, she had become one of R&B's biggest stars of the decade. Her Apple Music Live session, performed at Brooklyn's Barclays Center, was broadcast in January 2024."
+                        },
+                        "relationships": {
+                            "albums": {
+                                "href": "/v1/catalog/us/artists/605800394/albums",
+                                "next": "/v1/catalog/us/artists/605800394/albums?offset=25",
+                                "data": [
+                                    {
+                                        "id": "1239976329",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1239976329"
+                                    },
+                                    {
+                                        "id": "1657869377",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1657869377"
+                                    },
+                                    {
+                                        "id": "1628387909",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1628387909"
+                                    },
+                                    {
+                                        "id": "1440906927",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440906927"
+                                    },
+                                    {
+                                        "id": "1444276097",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1444276097"
+                                    },
+                                    {
+                                        "id": "1444618662",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1444618662"
+                                    },
+                                    {
+                                        "id": "1239977075",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1239977075"
+                                    },
+                                    {
+                                        "id": "852343474",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/852343474"
+                                    },
+                                    {
+                                        "id": "1658650093",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1658650093"
+                                    },
+                                    {
+                                        "id": "1732348411",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1732348411"
+                                    },
+                                    {
+                                        "id": "1440903005",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1440903005"
+                                    },
+                                    {
+                                        "id": "1728151465",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1728151465"
+                                    },
+                                    {
+                                        "id": "1664548283",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1664548283"
+                                    },
+                                    {
+                                        "id": "1704183235",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1704183235"
+                                    },
+                                    {
+                                        "id": "1546390050",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1546390050"
+                                    },
+                                    {
+                                        "id": "1445029775",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1445029775"
+                                    },
+                                    {
+                                        "id": "1561866167",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1561866167"
+                                    },
+                                    {
+                                        "id": "1470812463",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1470812463"
+                                    },
+                                    {
+                                        "id": "1707436500",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1707436500"
+                                    },
+                                    {
+                                        "id": "1444274049",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1444274049"
+                                    },
+                                    {
+                                        "id": "1570532323",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1570532323"
+                                    },
+                                    {
+                                        "id": "1634334253",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1634334253"
+                                    },
+                                    {
+                                        "id": "1667650945",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1667650945"
+                                    },
+                                    {
+                                        "id": "1530112355",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1530112355"
+                                    },
+                                    {
+                                        "id": "1634737561",
+                                        "type": "albums",
+                                        "href": "/v1/catalog/us/albums/1634737561"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "full-albums": {
+                "href": "/v1/catalog/us/artists/1300620186/view/full-albums",
+                "attributes": {
+                    "title": "Albums"
+                },
+                "data": [
+                    {
+                        "id": "1728069809",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1728069809",
+                        "attributes": {
+                            "copyright": "℗ 2024 Artemas",
+                            "genreNames": [
+                                "Pop",
+                                "Music",
+                                "Alternative"
+                            ],
+                            "releaseDate": "2024-02-09",
+                            "upc": "810129999723",
+                            "isMasteredForItunes": false,
+                            "artwork": {
+                                "width": 3000,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/e6/5f/dae65f3e-c61f-904b-8f2e-c4f2608e4edf/810129999723.jpg/440x440bb.jpg",
+                                "height": 3000,
+                                "textColor3": "353027",
+                                "textColor2": "271600",
+                                "textColor4": "4b3b26",
+                                "textColor1": "0c0801",
+                                "bgColor": "dbcfbf",
+                                "hasP3": false
+                            },
+                            "url": "https://music.apple.com/us/album/pretty/1728069809",
+                            "playParams": {
+                                "id": "1728069809",
+                                "kind": "album"
+                            },
+                            "recordLabel": "Artemas",
+                            "trackCount": 13,
+                            "isCompilation": false,
+                            "isPrerelease": false,
+                            "audioTraits": [
+                                "lossless",
+                                "lossy-stereo"
+                            ],
+                            "editorialArtwork": {
+                                "staticDetailTall": {
+                                    "width": 2048,
+                                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/40/68/59/40685953-0777-362e-feef-43cbf2685986/Jobb4a21c65-e34e-471c-a97b-6ab60f4350d3-164329279-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_318669597_1707340591-Time1709952665897.png/440x440bb.jpg",
+                                    "textGradient": [
+                                        "ffffff",
+                                        "28251b"
+                                    ],
+                                    "gradient": {
+                                        "y2": 0.48,
+                                        "color": "4d3c2f"
+                                    },
+                                    "height": 2732,
+                                    "textColor3": "38332d",
+                                    "textColor2": "28251b",
+                                    "textColor4": "4d493e",
+                                    "textColor1": "ffffff",
+                                    "bgColor": "4d3c2f",
+                                    "hasP3": false
+                                },
+                                "staticDetailSquare": {
+                                    "width": 3840,
+                                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/03/03/32/030332d8-cde9-0248-8feb-c44a512c03c4/Jobc4bcfdf6-1fc9-427d-87f6-47949eb7cd54-164329280-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_318669596_1707340592-Time1709954174818.png/440x440bb.jpg",
+                                    "height": 3840,
+                                    "textColor3": "332e28",
+                                    "textColor2": "252217",
+                                    "textColor4": "464034",
+                                    "textColor1": "0e0b08",
+                                    "bgColor": "c9baa9",
+                                    "hasP3": false
+                                }
+                            },
+                            "isSingle": false,
+                            "name": "pretty",
+                            "contentRating": "explicit",
+                            "artistName": "Artemas",
+                            "isComplete": true
+                        }
+                    },
+                    {
+                        "id": "1620449677",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1620449677",
+                        "attributes": {
+                            "copyright": "℗ 2021 Artemas",
+                            "genreNames": [
+                                "Pop",
+                                "Music",
+                                "Alternative"
+                            ],
+                            "releaseDate": "2022-05-06",
+                            "isMasteredForItunes": false,
+                            "upc": "190296131189",
+                            "artwork": {
+                                "width": 2500,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/ba/e3/dabae33c-a61d-1e35-0ab6-4ed0031adada/190296131189.jpg/440x440bb.jpg",
+                                "height": 2500,
+                                "textColor3": "373938",
+                                "textColor2": "171a18",
+                                "textColor4": "414342",
+                                "textColor1": "0b0d0b",
+                                "bgColor": "eaebed",
+                                "hasP3": false
+                            },
+                            "playParams": {
+                                "id": "1620449677",
+                                "kind": "album"
+                            },
+                            "url": "https://music.apple.com/us/album/im-sorry-im-like-this/1620449677",
+                            "recordLabel": "Artemas",
+                            "trackCount": 11,
+                            "isCompilation": false,
+                            "isPrerelease": false,
+                            "audioTraits": [
+                                "lossless",
+                                "lossy-stereo"
+                            ],
+                            "editorialArtwork": {},
+                            "isSingle": false,
+                            "name": "I'm Sorry I'm Like This",
+                            "artistName": "Artemas",
+                            "contentRating": "explicit",
+                            "isComplete": true
+                        }
+                    }
+                ]
+            },
+            "top-music-videos": {
+                "href": "/v1/catalog/us/artists/1300620186/view/top-music-videos",
+                "attributes": {
+                    "title": "Top Videos"
+                },
+                "data": []
+            },
+            "top-songs": {
+                "href": "/v1/catalog/us/artists/1300620186/view/top-songs",
+                "next": "/v1/catalog/us/artists/1300620186/view/top-songs?offset=10",
+                "attributes": {
+                    "title": "Top Songs"
+                },
+                "data": [
+                    {
+                        "id": "1736426869",
+                        "type": "songs",
+                        "href": "/v1/catalog/us/songs/1736426869",
+                        "attributes": {
+                            "albumName": "i like the way you kiss me - Single",
+                            "hasTimeSyncedLyrics": true,
+                            "genreNames": [
+                                "Pop",
+                                "Music",
+                                "Alternative"
+                            ],
+                            "trackNumber": 1,
+                            "durationInMillis": 142515,
+                            "releaseDate": "2024-03-19",
+                            "isVocalAttenuationAllowed": true,
+                            "isMasteredForItunes": false,
+                            "isrc": "QZJ842400387",
+                            "artwork": {
+                                "width": 3000,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/1e/ac/b61eaceb-b493-0909-abfe-0930b7e53d9f/810129998306.jpg/440x440bb.jpg",
+                                "height": 3000,
+                                "textColor3": "ae8d4b",
+                                "textColor2": "e8913c",
+                                "textColor4": "c17932",
+                                "textColor1": "cfab5b",
+                                "bgColor": "291909",
+                                "hasP3": false
+                            },
+                            "audioLocale": "en-US",
+                            "composerName": "Artemas Diamandis, Jesse Fink, Kevin White & Toby Daintree",
+                            "url": "https://music.apple.com/us/album/i-like-the-way-you-kiss-me/1736426868?i=1736426869",
+                            "playParams": {
+                                "id": "1736426869",
+                                "kind": "song"
+                            },
+                            "discNumber": 1,
+                            "hasCredits": false,
+                            "hasLyrics": true,
+                            "isAppleDigitalMaster": false,
+                            "audioTraits": [
+                                "atmos",
+                                "lossless",
+                                "lossy-stereo",
+                                "spatial"
+                            ],
+                            "editorialArtwork": {},
+                            "name": "i like the way you kiss me",
+                            "previews": [
+                                {
+                                    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/64/c3/5864c37e-bcae-0688-f025-8565ea1da2fa/mzaf_16997188397818469912.plus.aac.p.m4a"
+                                }
+                            ],
+                            "artistName": "Artemas"
+                        }
+                    },
+                    {
+                        "id": "1714788583",
+                        "type": "songs",
+                        "href": "/v1/catalog/us/songs/1714788583",
+                        "attributes": {
+                            "albumName": "if u think i'm pretty - Single",
+                            "hasTimeSyncedLyrics": true,
+                            "genreNames": [
+                                "Alternative",
+                                "Music",
+                                "Pop"
+                            ],
+                            "trackNumber": 1,
+                            "releaseDate": "2023-10-24",
+                            "durationInMillis": 128206,
+                            "isVocalAttenuationAllowed": true,
+                            "isMasteredForItunes": false,
+                            "isrc": "QZTB92397158",
+                            "artwork": {
+                                "width": 3000,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/01/a0/4b/01a04bb1-5ef5-aaa6-614f-6c2a56d1fd60/198090336021.jpg/440x440bb.jpg",
+                                "height": 3000,
+                                "textColor3": "b89784",
+                                "textColor2": "d2b9a2",
+                                "textColor4": "b09986",
+                                "textColor1": "dcb6a0",
+                                "bgColor": "291c14",
+                                "hasP3": false
+                            },
+                            "audioLocale": "en-US",
+                            "composerName": "Artemas Diamandis & Toby Daintree",
+                            "url": "https://music.apple.com/us/album/if-u-think-im-pretty/1714788578?i=1714788583",
+                            "playParams": {
+                                "id": "1714788583",
+                                "kind": "song"
+                            },
+                            "discNumber": 1,
+                            "hasCredits": false,
+                            "hasLyrics": true,
+                            "isAppleDigitalMaster": false,
+                            "audioTraits": [
+                                "lossless",
+                                "lossy-stereo"
+                            ],
+                            "editorialArtwork": {},
+                            "name": "if u think i'm pretty",
+                            "previews": [
+                                {
+                                    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/dc/44/ed/dc44ed96-8dcf-273c-109d-93786b13b788/mzaf_9028076051383415374.plus.aac.p.m4a"
+                                }
+                            ],
+                            "artistName": "Artemas",
+                            "contentRating": "explicit"
+                        }
+                    },
+                    {
+                        "id": "1714790328",
+                        "type": "songs",
+                        "href": "/v1/catalog/us/songs/1714790328",
+                        "attributes": {
+                            "albumName": "cross my heart - Single",
+                            "hasTimeSyncedLyrics": true,
+                            "genreNames": [
+                                "Alternative",
+                                "Music",
+                                "Pop"
+                            ],
+                            "trackNumber": 1,
+                            "releaseDate": "2023-09-19",
+                            "durationInMillis": 146216,
+                            "isVocalAttenuationAllowed": true,
+                            "isMasteredForItunes": false,
+                            "isrc": "QZTAZ2311089",
+                            "artwork": {
+                                "width": 3000,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bb/9c/4b/bb9c4b12-61a6-f6ff-5836-fea929212c97/198087623271.jpg/440x440bb.jpg",
+                                "height": 3000,
+                                "textColor3": "ccb8ad",
+                                "textColor2": "ecc9b2",
+                                "textColor4": "c3a695",
+                                "textColor1": "f6dfd1",
+                                "bgColor": "211c20",
+                                "hasP3": false
+                            },
+                            "audioLocale": "en-US",
+                            "composerName": "Artemas Diamandis & Jesse Fink",
+                            "url": "https://music.apple.com/us/album/cross-my-heart/1714790017?i=1714790328",
+                            "playParams": {
+                                "id": "1714790328",
+                                "kind": "song"
+                            },
+                            "discNumber": 1,
+                            "hasCredits": false,
+                            "hasLyrics": true,
+                            "isAppleDigitalMaster": false,
+                            "audioTraits": [
+                                "atmos",
+                                "lossless",
+                                "lossy-stereo",
+                                "spatial"
+                            ],
+                            "editorialArtwork": {},
+                            "name": "cross my heart",
+                            "previews": [
+                                {
+                                    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/2f/d4/a9/2fd4a927-2c2c-5565-9a24-4390e91df0a3/mzaf_7245581674991024823.plus.aac.p.m4a"
+                                }
+                            ],
+                            "artistName": "Artemas"
+                        }
+                    },
+                    {
+                        "id": "1718825053",
+                        "type": "songs",
+                        "href": "/v1/catalog/us/songs/1718825053",
+                        "attributes": {
+                            "albumName": "just want u to feel something - EP",
+                            "hasTimeSyncedLyrics": true,
+                            "genreNames": [
+                                "Alternative",
+                                "Music",
+                                "Pop"
+                            ],
+                            "trackNumber": 4,
+                            "durationInMillis": 119104,
+                            "releaseDate": "2023-11-01",
+                            "isVocalAttenuationAllowed": true,
+                            "isMasteredForItunes": false,
+                            "isrc": "QZJ842004261",
+                            "artwork": {
+                                "width": 3000,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d9/cc/9a/d9cc9a5d-6f2a-8b77-1350-8491f031301f/810129803952.jpg/440x440bb.jpg",
+                                "height": 3000,
+                                "textColor3": "b4af81",
+                                "textColor2": "b8ccb7",
+                                "textColor4": "98a996",
+                                "textColor1": "dcd39d",
+                                "bgColor": "161f14",
+                                "hasP3": false
+                            },
+                            "composerName": "Artemas Diamandis & Toby Daintree",
+                            "audioLocale": "en-US",
+                            "url": "https://music.apple.com/us/album/prettygrunge-wav/1718825035?i=1718825053",
+                            "playParams": {
+                                "id": "1718825053",
+                                "kind": "song"
+                            },
+                            "discNumber": 1,
+                            "hasCredits": false,
+                            "isAppleDigitalMaster": false,
+                            "hasLyrics": true,
+                            "audioTraits": [
+                                "lossless",
+                                "lossy-stereo"
+                            ],
+                            "editorialArtwork": {},
+                            "name": "prettygrunge.wav",
+                            "previews": [
+                                {
+                                    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/34/43/ae/3443ae77-9810-ee35-b545-156afd9298c3/mzaf_9739861362606929239.plus.aac.p.m4a"
+                                }
+                            ],
+                            "artistName": "Artemas"
+                        }
+                    },
+                    {
+                        "id": "1718825040",
+                        "type": "songs",
+                        "href": "/v1/catalog/us/songs/1718825040",
+                        "attributes": {
+                            "albumName": "just want u to feel something - EP",
+                            "hasTimeSyncedLyrics": true,
+                            "genreNames": [
+                                "Pop",
+                                "Music"
+                            ],
+                            "trackNumber": 1,
+                            "durationInMillis": 170152,
+                            "releaseDate": "2023-12-01",
+                            "isVocalAttenuationAllowed": true,
+                            "isMasteredForItunes": false,
+                            "isrc": "QZJ842004197",
+                            "artwork": {
+                                "width": 3000,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d9/cc/9a/d9cc9a5d-6f2a-8b77-1350-8491f031301f/810129803952.jpg/440x440bb.jpg",
+                                "height": 3000,
+                                "textColor3": "b4af81",
+                                "textColor2": "b8ccb7",
+                                "textColor4": "98a996",
+                                "textColor1": "dcd39d",
+                                "bgColor": "161f14",
+                                "hasP3": false
+                            },
+                            "composerName": "Artemas Diamandis",
+                            "audioLocale": "en-US",
+                            "url": "https://music.apple.com/us/album/just-want-u-to-feel-something/1718825035?i=1718825040",
+                            "playParams": {
+                                "id": "1718825040",
+                                "kind": "song"
+                            },
+                            "discNumber": 1,
+                            "hasCredits": false,
+                            "isAppleDigitalMaster": false,
+                            "hasLyrics": true,
+                            "audioTraits": [
+                                "lossless",
+                                "lossy-stereo"
+                            ],
+                            "editorialArtwork": {},
+                            "name": "just want u to feel something",
+                            "previews": [
+                                {
+                                    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ce/a3/a7/cea3a7f1-e98b-d159-495f-edc02bc60f4f/mzaf_905729053867084348.plus.aac.ep.m4a"
+                                }
+                            ],
+                            "artistName": "Artemas"
+                        }
+                    },
+                    {
+                        "id": "1692742045",
+                        "type": "songs",
+                        "href": "/v1/catalog/us/songs/1692742045",
+                        "attributes": {
+                            "albumName": "Tattoos - Single",
+                            "hasTimeSyncedLyrics": true,
+                            "genreNames": [
+                                "Alternative",
+                                "Music"
+                            ],
+                            "trackNumber": 1,
+                            "releaseDate": "2023-06-16",
+                            "durationInMillis": 165616,
+                            "isVocalAttenuationAllowed": true,
+                            "isMasteredForItunes": false,
+                            "isrc": "SGW502303154",
+                            "artwork": {
+                                "width": 3000,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2d/21/86/2d2186ee-bcd8-efeb-424e-ade25ddcb2f9/717124165934.png/440x440bb.jpg",
+                                "height": 3000,
+                                "textColor3": "c8a98c",
+                                "textColor2": "e3bea7",
+                                "textColor4": "bea08c",
+                                "textColor1": "efc9a7",
+                                "bgColor": "2b2724",
+                                "hasP3": false
+                            },
+                            "composerName": "Artemas Diamandis",
+                            "audioLocale": "en-US",
+                            "playParams": {
+                                "id": "1692742045",
+                                "kind": "song"
+                            },
+                            "url": "https://music.apple.com/us/album/tattoos/1692742043?i=1692742045",
+                            "discNumber": 1,
+                            "hasCredits": false,
+                            "isAppleDigitalMaster": false,
+                            "hasLyrics": true,
+                            "audioTraits": [
+                                "lossless",
+                                "lossy-stereo"
+                            ],
+                            "editorialArtwork": {},
+                            "name": "Tattoos",
+                            "previews": [
+                                {
+                                    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/59/fe/f6/59fef607-dc8e-eea2-0526-9803c44d8ddf/mzaf_6070094953912270128.plus.aac.ep.m4a"
+                                }
+                            ],
+                            "contentRating": "explicit",
+                            "artistName": "Artemas"
+                        }
+                    },
+                    {
+                        "id": "1696239381",
+                        "type": "songs",
+                        "href": "/v1/catalog/us/songs/1696239381",
+                        "attributes": {
+                            "albumName": "I'll Make You Miss Me - Single",
+                            "hasTimeSyncedLyrics": true,
+                            "genreNames": [
+                                "Alternative",
+                                "Music"
+                            ],
+                            "trackNumber": 1,
+                            "durationInMillis": 180925,
+                            "releaseDate": "2023-07-07",
+                            "isVocalAttenuationAllowed": false,
+                            "isMasteredForItunes": false,
+                            "isrc": "SGW502320205",
+                            "artwork": {
+                                "width": 3000,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ae/89/b9/ae89b9cd-d118-9173-4b66-eee402302e22/681178940222.png/440x440bb.jpg",
+                                "height": 3000,
+                                "textColor3": "cbc9c1",
+                                "textColor2": "f3d8c7",
+                                "textColor4": "cbb6a7",
+                                "textColor1": "f2f0e8",
+                                "bgColor": "2d2d25",
+                                "hasP3": false
+                            },
+                            "composerName": "Artemas Diamandis",
+                            "audioLocale": "en-US",
+                            "url": "https://music.apple.com/us/album/ill-make-you-miss-me/1696239380?i=1696239381",
+                            "playParams": {
+                                "id": "1696239381",
+                                "kind": "song"
+                            },
+                            "discNumber": 1,
+                            "hasCredits": false,
+                            "isAppleDigitalMaster": false,
+                            "hasLyrics": true,
+                            "audioTraits": [
+                                "lossless",
+                                "lossy-stereo"
+                            ],
+                            "editorialArtwork": {},
+                            "name": "I'll Make You Miss Me",
+                            "previews": [
+                                {
+                                    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/5b/ed/14/5bed141f-c931-3845-a0ac-baffcee602ce/mzaf_3013984250009012259.plus.aac.ep.m4a"
+                                }
+                            ],
+                            "artistName": "Artemas",
+                            "contentRating": "explicit"
+                        }
+                    },
+                    {
+                        "id": "1737759223",
+                        "type": "songs",
+                        "href": "/v1/catalog/us/songs/1737759223",
+                        "attributes": {
+                            "albumName": "i like the way you kiss me (burnt) - Single",
+                            "hasTimeSyncedLyrics": true,
+                            "genreNames": [
+                                "Pop",
+                                "Music",
+                                "Alternative"
+                            ],
+                            "trackNumber": 2,
+                            "releaseDate": "2024-03-19",
+                            "durationInMillis": 142515,
+                            "isVocalAttenuationAllowed": true,
+                            "isMasteredForItunes": false,
+                            "isrc": "QZJ842400387",
+                            "artwork": {
+                                "width": 3000,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/4a/07/794a07b2-fcb8-52a1-d487-fbdf70f5d219/810129998023.jpg/440x440bb.jpg",
+                                "height": 3000,
+                                "textColor3": "ae8d4b",
+                                "textColor2": "e8913c",
+                                "textColor4": "c17932",
+                                "textColor1": "cfab5b",
+                                "bgColor": "291909",
+                                "hasP3": false
+                            },
+                            "audioLocale": "en-US",
+                            "composerName": "Artemas Diamandis, Jesse Fink, Kevin White & Toby Daintree",
+                            "playParams": {
+                                "id": "1737759223",
+                                "kind": "song"
+                            },
+                            "url": "https://music.apple.com/us/album/i-like-the-way-you-kiss-me/1737759217?i=1737759223",
+                            "discNumber": 1,
+                            "hasCredits": false,
+                            "hasLyrics": true,
+                            "isAppleDigitalMaster": false,
+                            "audioTraits": [
+                                "lossless",
+                                "lossy-stereo"
+                            ],
+                            "editorialArtwork": {},
+                            "name": "i like the way you kiss me",
+                            "previews": [
+                                {
+                                    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/cd/c5/65cdc5fd-5d26-a78c-e4b4-8af08080b02e/mzaf_10065058254582186634.plus.aac.p.m4a"
+                                }
+                            ],
+                            "artistName": "Artemas"
+                        }
+                    },
+                    {
+                        "id": "1728070337",
+                        "type": "songs",
+                        "href": "/v1/catalog/us/songs/1728070337",
+                        "attributes": {
+                            "albumName": "pretty",
+                            "hasTimeSyncedLyrics": true,
+                            "genreNames": [
+                                "Pop",
+                                "Music",
+                                "Alternative"
+                            ],
+                            "trackNumber": 3,
+                            "durationInMillis": 114419,
+                            "releaseDate": "2024-01-26",
+                            "isVocalAttenuationAllowed": true,
+                            "isMasteredForItunes": false,
+                            "isrc": "QZJ842004448",
+                            "artwork": {
+                                "width": 3000,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/e6/5f/dae65f3e-c61f-904b-8f2e-c4f2608e4edf/810129999723.jpg/440x440bb.jpg",
+                                "height": 3000,
+                                "textColor3": "353027",
+                                "textColor2": "271600",
+                                "textColor4": "4b3b26",
+                                "textColor1": "0c0801",
+                                "bgColor": "dbcfbf",
+                                "hasP3": false
+                            },
+                            "composerName": "Artemas Diamandis, Jesse Fink & Toby Daintree",
+                            "audioLocale": "en-US",
+                            "playParams": {
+                                "id": "1728070337",
+                                "kind": "song"
+                            },
+                            "url": "https://music.apple.com/us/album/ur-special-to-me/1728069809?i=1728070337",
+                            "discNumber": 1,
+                            "hasCredits": false,
+                            "isAppleDigitalMaster": false,
+                            "hasLyrics": true,
+                            "audioTraits": [
+                                "lossless",
+                                "lossy-stereo"
+                            ],
+                            "editorialArtwork": {},
+                            "name": "ur special to me",
+                            "previews": [
+                                {
+                                    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/8e/45/fe/8e45fea3-cdbb-a354-dbd7-5408ab73e7c8/mzaf_15742390612887160042.plus.aac.p.m4a"
+                                }
+                            ],
+                            "artistName": "Artemas"
+                        }
+                    },
+                    {
+                        "id": "1728070725",
+                        "type": "songs",
+                        "href": "/v1/catalog/us/songs/1728070725",
+                        "attributes": {
+                            "albumName": "pretty",
+                            "hasTimeSyncedLyrics": true,
+                            "genreNames": [
+                                "Pop",
+                                "Music",
+                                "Alternative"
+                            ],
+                            "trackNumber": 10,
+                            "releaseDate": "2024-01-26",
+                            "durationInMillis": 166849,
+                            "isVocalAttenuationAllowed": true,
+                            "isMasteredForItunes": false,
+                            "isrc": "QZJ842400058",
+                            "artwork": {
+                                "width": 3000,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/e6/5f/dae65f3e-c61f-904b-8f2e-c4f2608e4edf/810129999723.jpg/440x440bb.jpg",
+                                "height": 3000,
+                                "textColor3": "353027",
+                                "textColor2": "271600",
+                                "textColor4": "4b3b26",
+                                "textColor1": "0c0801",
+                                "bgColor": "dbcfbf",
+                                "hasP3": false
+                            },
+                            "composerName": "Artemas Diamandis & Toby Daintree",
+                            "audioLocale": "en-US",
+                            "url": "https://music.apple.com/us/album/breath-away/1728069809?i=1728070725",
+                            "playParams": {
+                                "id": "1728070725",
+                                "kind": "song"
+                            },
+                            "discNumber": 1,
+                            "hasCredits": false,
+                            "isAppleDigitalMaster": false,
+                            "hasLyrics": true,
+                            "audioTraits": [
+                                "lossless",
+                                "lossy-stereo"
+                            ],
+                            "editorialArtwork": {},
+                            "name": "breath away",
+                            "previews": [
+                                {
+                                    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/47/21/0f/47210f43-1492-6739-021f-02ae043d1c8e/mzaf_10168417239356894252.plus.aac.ep.m4a"
+                                }
+                            ],
+                            "contentRating": "explicit",
+                            "artistName": "Artemas"
+                        }
+                    }
+                ]
+            },
+            "latest-release": {
+                "href": "/v1/catalog/us/artists/1300620186/view/latest-release",
+                "attributes": {
+                    "title": "Latest Release"
+                },
+                "data": [
+                    {
+                        "id": "1737759217",
+                        "type": "albums",
+                        "href": "/v1/catalog/us/albums/1737759217",
+                        "attributes": {
+                            "copyright": "℗ 2024 Artemas",
+                            "genreNames": [
+                                "Pop",
+                                "Music",
+                                "Alternative"
+                            ],
+                            "releaseDate": "2024-03-26",
+                            "isMasteredForItunes": false,
+                            "upc": "810129998023",
+                            "artwork": {
+                                "width": 3000,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/4a/07/794a07b2-fcb8-52a1-d487-fbdf70f5d219/810129998023.jpg/440x440bb.jpg",
+                                "height": 3000,
+                                "textColor3": "ae8d4b",
+                                "textColor2": "e8913c",
+                                "textColor4": "c17932",
+                                "textColor1": "cfab5b",
+                                "bgColor": "291909",
+                                "hasP3": false
+                            },
+                            "url": "https://music.apple.com/us/album/i-like-the-way-you-kiss-me-burnt-single/1737759217",
+                            "playParams": {
+                                "id": "1737759217",
+                                "kind": "album"
+                            },
+                            "recordLabel": "Artemas",
+                            "trackCount": 2,
+                            "isCompilation": false,
+                            "isPrerelease": false,
+                            "audioTraits": [
+                                "lossless",
+                                "lossy-stereo"
+                            ],
+                            "editorialArtwork": {},
+                            "isSingle": false,
+                            "name": "i like the way you kiss me (burnt) - Single",
+                            "artistName": "Artemas",
+                            "isComplete": true
+                        }
+                    }
+                ]
+            },
+            "featured-albums": {
+                "href": "/v1/catalog/us/artists/1300620186/view/featured-albums",
+                "attributes": {
+                    "title": "Essential Albums"
+                },
+                "data": []
+            },
+            "playlists": {
+                "href": "/v1/catalog/us/artists/1300620186/view/playlists",
+                "attributes": {
+                    "title": "Artist Playlists"
+                },
+                "data": []
+            }
+        },
+        "meta": {
+            "views": {
+                "order": [
+                    "latest-release",
+                    "top-songs",
+                    "featured-albums",
+                    "full-albums",
+                    "top-music-videos",
+                    "playlists",
+                    "similar-artists"
+                ]
+            }
+        },
+        "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/d6/dd/e9/d6dde968-aa77-e0c3-7f32-1030d8ee1ae3/fcaba4cb-dc59-43b9-a707-e39020ccde53_file_cropped.png/440x440bb.jpg"
+    }
+]
