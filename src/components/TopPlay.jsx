@@ -39,9 +39,9 @@ const TopChartCard = ({ song, i, isPlaying, activeSong, handlePauseClick, handle
 );
 const TopPlay = () => {
   const dispatch = useDispatch();
-  // The state activeSong, and isPlaying defined in redux store, 
-  // will be used to know what's the current song playing and 
-  // is it playing or not!
+  // The state 'activeSong', and 'isPlaying' defined in redux store, 
+  // will be used to know what's the current song that is being  played and 
+  // is it even playing or not!
   const { activeSong, isPlaying } = useSelector((state) => state.player);
   const { data } = useGetTopChartsQuery();
   const divRef = useRef(null);
@@ -51,15 +51,15 @@ const TopPlay = () => {
   });
 
   const topPlays = data?.slice(0, 5);
-  // {console.log('hiiiiii' + topPlays.map(song => song.key))};
   setTimeout(function() {
 }, 5000); // 5000 milliseconds = 5 seconds
 
 
-  // reduxSlice got reducers (here playerSlice), 
-  //reducers have actions defined (here playPause), 
+  // reduxSlice got slices(componets of app with states that need to managed) (here playerSlice), 
+  //slices have reducers, and reducers have actions defined (here playPause), 
   //actions can be deployed using redux dispatch
-  //these actions / functions  will be activated when play-pause button clicked, handled by handlePause click function!
+  //these actions / functions  will be activated when play-pause button is clicked, 
+  //This button has handlePauseCLick/handlePlayclick function linked to them!
   // 
   const handlePauseClick = () => {
     dispatch(playPause(false));

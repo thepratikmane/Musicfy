@@ -8,7 +8,7 @@ import { useGetArtistDetailsQuery } from "../redux/services/shazamCore";
 const ArtistDetails = () => {
 
   // this 'artistId' is taken from url. 
-  //Now url or routes is avaible to use form App.jsx
+  //Now url or routes is available to use form App.jsx
   // and we can access them using useParam of react-router-dom
   const { id: artistId } = useParams();
   const { activeSong, isPlaying } = useSelector((state) => state.player);
@@ -25,9 +25,9 @@ const ArtistDetails = () => {
 
   let artistTopSongs;
   if (artistData) {
-    console.log(artistData);
+    // console.log(artistData);
     artistTopSongs = artistData['data'][0]['views']['top-songs']['data'];
-    console.log(artistTopSongs);
+    // console.log(artistTopSongs);
   }
 
   
